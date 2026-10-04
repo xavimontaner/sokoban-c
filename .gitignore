@@ -1,0 +1,8 @@
+*.exe
+*.o
+sokoban
+tests/test_sokoban
+*.sok
+.vscode/
+.idea/
+_private/
